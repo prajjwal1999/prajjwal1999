@@ -1,9 +1,8 @@
 ### Hi there, I'm Prajjwal 👋
-[![Twitter Follow](https://i0.wp.com/cdn2.business2community.com/wp-content/uploads/2014/11/543c477e9547e.jpg.jpg)](https://twitter.com/prajjwal_algo)
+[![Twitter Follow]()](https://twitter.com/prajjwal_algo)
 
 ## I am doing Front end Developing using ReactJs!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: Most of my projects are name as untitled
 
