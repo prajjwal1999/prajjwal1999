@@ -1,5 +1,5 @@
 ### Hi there, I'm Prajjwal 👋
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/prajjwal_algo)
+[![Twitter Follow](https://twitter.com/prajjwal_algo)](https://twitter.com/prajjwal_algo)
 
 ## I am doing Front end Developing using ReactJs!
 - 🌱 I’m currently learning everything 🤣
