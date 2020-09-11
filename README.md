@@ -1,8 +1,8 @@
 ### Hi there, I'm Prajjwal 👋
 [![Twitter Follow]()](https://twitter.com/prajjwal_algo)
 
-## I am doing Front end Developing using ReactJs!
-- 🌱 I’m currently learning everything 🤣
+## !
+- 🌱  🤣
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: Most of my projects are name as untitled
 
