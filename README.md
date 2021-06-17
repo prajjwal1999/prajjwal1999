@@ -38,12 +38,12 @@
 
                                        
                                        
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=azhanali&show_icons=true&theme=onedark" alt="azhanali" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=prajjwal1999&show_icons=true&theme=onedark"  /></p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=azhanali"  /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=prajjwal1999"  /> </p>
 
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azhanali&theme=onedark"  /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajjwal1999&theme=onedark"  /></p>
 
 Download My
 <a href="https://drive.google.com/drive/u/0/folders/1c3NrWH5ND8pY_gvFayf8yrkrjYJkQUOE" class="btn-hire" style="text-align: center; color:rgb(94, 255, 0);"><b>Resume</b></a>
