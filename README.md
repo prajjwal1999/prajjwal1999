@@ -7,7 +7,7 @@
 - ⚡ Fun fact: Most of my projects are name as untitled
 
 ### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/track/4SlCYFaUQ8GRuwdpgniaGF)
 
 ### Connect with me:
 
@@ -38,7 +38,7 @@
 
                                        
                                        
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=prajjwal1999&show_icons=true&theme=onedark"  /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=prajjwal_21&show_icons=true&theme=onedark"  /></p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=prajjwal1999"  /> </p>
 
